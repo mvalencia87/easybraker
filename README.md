@@ -24,7 +24,7 @@ Cliente PHP para consumir la API de EasyBroker. Este paquete permite obtener pro
 
 ```
 # Clonar el repositorio
-git clone <url-del-repositorio>
+git clone https://github.com/mvalencia87/easybraker
 cd easybroker
 
 # Instalar dependencias
